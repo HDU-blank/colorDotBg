@@ -1,7 +1,7 @@
 # colorDotBg背景插件
 #### 背景效果可见上个repositories--->canvasBall
 ***
-* ### 使用方法：js代码中获取DOM元素，添加colorDotBg()方法，会在DOM元素下插入一个<canvas>元素
+* ### 使用方法：js代码中获取DOM元素，添加colorDotBg()方法，会在DOM元素下插入一个canvas元素
     ```
     $(function(){
         $("div").colorDotBg({
